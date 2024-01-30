@@ -18,3 +18,4 @@ npm start
 ## Need more calculations or having issues?
 
 Post it on github https://github.com/MykolaOnyschuk/seismic-calculator/issues
+#zany
